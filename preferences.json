@@ -1,8 +1,7 @@
 {
-  Favorite movie: Batman: The Dark Knight,
-  favorite series: Game of Thrones,
-  favorite food: meat,
-  favorite season: Summer
-  favorite country: Canada,
-
+  "Favorite movie": "Batman: The Dark Knight",
+  "favorite series": "Game of Thrones",
+  "favorite food": "meat",
+  "favorite season": "Summer",
+  "favorite country": "Canada"
 }
