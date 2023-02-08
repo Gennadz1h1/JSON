@@ -1,0 +1,6 @@
+"{
+  "Precindition": "User in gitHub",
+   "Step": "User push",
+   "Actual result": "Conflict is appeared",
+   "Expexted result": "Push is successful"
+}"
